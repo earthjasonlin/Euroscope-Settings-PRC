@@ -6,7 +6,7 @@ m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
 m_TransitionAltitude:9843
-m_AllowConcernedACTagDown:0
+m_AllowConcernedACTagDown:1
 m_CenterlineDme:0.0
 m_CenterlineLength:40.0
 m_CenterlineTickDme:5.0
@@ -29,8 +29,8 @@ m_STCA_HighBottom:21653
 m_ExtendedCenterlinActiveArr:1
 m_UseHoveringTagForKeys:1
 m_AutoMessageForTextAircraft:1
-m_ShowRouteWhenAccepting:1
-m_AllowAssumedACTagDown:0
+m_ShowRouteWhenAccepting:0
+m_AllowAssumedACTagDown:1
 m_InhibitAutoPushOnHandoff:1
 m_RandomSquawks:1
 m_VFRSquawks:1200
@@ -40,7 +40,7 @@ m_LockShowRouteWhenAccepting:0
 m_VoiceAtisBuilderUrl:https://atis.vatprc.net/parser.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS&info=$atiscode&metar=$metar($atisairport)
 m_DoNotUseAcceptedColor:0
 m_DoNotUseRefusedColor:0
-SET_TransparentAcListBackground:1
+SET_TransparentAcListBackground:0
 m_PutIncomingCoordinationToFirst:1
 m_AutoProxyMode:0
 m_TransparentAcListSelectedBackground:0
@@ -69,7 +69,7 @@ m_SModeTransponders:IEFGRWQ
 m_CorrelationMode:0
 m_CorrelationDistance:30
 m_SimulateRadars:0
-m_AllowCorrelatedTAGDown:0
+m_AllowCorrelatedTAGDown:1
 m_ShowDetailedOverUntagged:0
 m_ShowRectAroundFPTrack:1
 m_ShowRectAroundASEL:0
@@ -96,7 +96,7 @@ m_SupMessageLevel:4
 m_AtisMessageLevel:0
 m_PrivateMessageLevel:4
 m_FreqMessageLevel:4
-m_MericUnits:1
+m_MericUnits:0
 m_ShowCorrelatedInFpList:0
 m_ShowUncorrelatedInFpList:1
 m_ShowVFRInFpList:1
@@ -168,8 +168,8 @@ m_Column:STS:4:1:59:46:46:1::::1:0.0
 END
 TAXIOUT
 m_Visible:0
-m_X:90
-m_Y:100
+m_X:48
+m_Y:270
 m_LineNumber:6
 m_Resizable:0
 m_OrderingColumn:1
@@ -209,8 +209,8 @@ m_Column:STS:4:1:59:46:46:1::::1:0.0
 END
 ADCS
 m_Visible:0
-m_X:110
-m_Y:100
+m_X:123
+m_Y:136
 m_LineNumber:6
 m_Resizable:0
 m_OrderingColumn:1
