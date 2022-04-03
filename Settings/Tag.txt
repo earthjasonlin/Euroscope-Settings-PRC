@@ -550,7 +550,7 @@ TAGITEM:17::0:0:0:0::0:1:::1
 TAGITEM:16::0:1:0:0::0:1:::1
 TAGITEM:33::0:0:0:0::0:1:::1
 TAGITEM:46::0:1:0:0::0:1:::1
-TAGITEM:44::0:1:0:0::0:1:::1
+TAGITEM:1005::0:1:0:0:Telephonics:0:1:::1
 TAGITEM:45::0:1:0:0::0:1:::1
 TAGITEM:33::0:0:0:0::0:1:::1
 TAGITEM:1:*:0:1:0:0::0:1:::1
@@ -577,7 +577,7 @@ TAGITEM:17::0:1:7:1::0:1:::1
 TAGITEM:16::0:1:0:0::0:1:::1
 TAGITEM:33::0:0:0:0::0:1:::1
 TAGITEM:46::0:0:1014:14::0:1:Telephonics::1
-TAGITEM:44::0:1:1010:1012::0:1:Telephonics:Telephonics:1
+TAGITEM:1010::0:1:1010:1012:Telephonics:0:1:Telephonics:Telephonics:1
 TAGITEM:45::0:1:1018:1016::0:1:Telephonics:Telephonics:1
 TAGITEM:33::0:0:0:0::0:1:::1
 TAGITEM:1:*:0:1:0:0::0:1:::1
