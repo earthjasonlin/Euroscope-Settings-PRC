@@ -2,14 +2,14 @@ SYMBOLOGY
 SYMBOLSIZE
 Airports:symbol:4802889:1.0:0:0:7
 Airports:name:4802889:4.0:0:0:1
-Low airways:line:7425280:2.0:3:0:7
-Low airways:name:7819520:3.5:0:0:8
-High airways:line:4802889:2.0:4:0:7
+Low airways:line:4802889:2.0:1:0:7
+Low airways:name:4802889:3.5:0:0:8
+High airways:line:4802889:2.0:1:0:7
 High airways:name:4802889:3.5:0:0:8
 Fixes:symbol:4802889:1.0:0:0:7
 Fixes:name:4802889:4.0:0:0:1
-Sids:line:7614757:3.0:2:0:7
-Stars:line:1973883:3.0:2:0:7
+Sids:line:6842368:3.0:0:0:7
+Stars:line:4802889:3.0:0:0:7
 ARTCC high boundary:line:13369548:3.0:0:1:7
 ARTCC boundary:line:4802889:3.0:0:2:7
 ARTCC low boundary:line:4802889:3.0:0:1:7
@@ -26,8 +26,8 @@ Runways:name:9221586:3.8:0:3:7
 Datablock:non concerned:0:4.0:0:0:7
 Datablock:notified:16711680:4.0:0:0:7
 Datablock:assumed:13302224:4.0:0:0:7
-Datablock:transfer to me initiated:6460927:4.0:0:0:7
-Datablock:redundant:5938156:4.0:0:0:7
+Datablock:transfer to me initiated:5938156:4.0:0:0:7
+Datablock:redundant:8697328:4.0:0:0:7
 Datablock:information:65535:4.0:0:0:7
 Datablock:even flight level:16777215:4.0:0:0:7
 Datablock:odd flight level:16777215:4.0:0:0:7
@@ -39,7 +39,7 @@ Datablock:user 3:16777215:4.0:0:0:7
 Datablock:user 4:16777215:4.0:0:0:7
 Datablock:user 5:16777215:4.0:0:0:7
 Datablock:user 6:16777215:4.0:0:0:7
-Datablock:emergency:5724159:4.0:0:0:7
+Datablock:emergency:50688:4.0:0:0:7
 Datablock:ongoing requested by me:12615935:4.0:0:0:7
 Datablock:ongoing requested by other:8454016:4.0:0:0:7
 Datablock:ongoing accepted:65535:4.0:0:0:7
@@ -77,28 +77,28 @@ Other:conflict warning:65535:4.0:0:2:7
 Other:conflict detected:255:4.0:0:2:7
 Other:route annotation:16777215:4.0:0:2:7
 Other:freetext:12632256:3.3:0:0:7
-Other:range rings:15982853:5.0:0:0:2
+Other:range rings:6842368:5.0:2:0:2
 Other:off antenna range rings:255:5.0:0:0:2
 Other:plane range rings:5921370:5.0:0:0:2
 Other:manual taxi line:16777215:5.0:0:3:2
 Other:manual taxi line ends at predefined point:65535:5.0:0:3:2
 Other:predefined taxi line:65280:5.0:0:3:2
 Other:terminal taxi line:255:5.0:0:3:2
-Other:list header:4411406:4.0:0:0:7
+Other:list header:106:4.0:0:0:7
 Other:normal menu item:16777215:4.0:0:0:7
 Other:disabled menu item:8421504:4.0:0:0:7
 Transitions:transition grid:5263440:3.0:0:0:7
 Chat:text:16777215:4.0:0:0:7
 Chat:background:8684676:4.0:0:0:7
 Chat:name normal:16777215:4.0:0:0:7
-Chat:name unread:128:4.0:0:0:7
+Chat:name unread:106:4.0:0:0:7
 Ground Network:exit:16711680:4.0:0:3:7
 Ground Network:taxiway:65280:4.0:0:3:7
 Ground Network:terminal taxiway:0:4.0:0:3:7
-Sector:line:4802889:4.0:0:2:7
+Sector:line:4802889:4.0:3:2:7
 Sector:msaw:32768:2.0:0:2:7
-Sector:active sector background:9474192:4.0:0:0:7
-Sector:inactive sector background:8553090:4.0:0:0:7
+Sector:active sector background:9474192:4.0:3:0:7
+Sector:inactive sector background:8553090:4.0:4:0:7
 SYMBOL:0
 SYMBOLITEM:MOVETO -4 -4
 SYMBOLITEM:LINETO 4 -4
