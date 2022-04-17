@@ -14,7 +14,7 @@ m_CenterlineTickInterval:1.0
 m_CenterlineTickLength:0.5
 m_CenterlineMarkerLength:1.0
 m_CenterlineMarkerInterval:5.0
-m_CenterlineVectorDme:20.0
+m_CenterlineVectorDme:14.0
 m_CenterlineVectorLength:6.0
 m_CenterlineVectorAngle:30.0
 m_CenterlineVectorBase:7.0
@@ -133,7 +133,7 @@ m_AutoAssumeOnGroundStateChangeButton:0
 m_ShowTrackMilesInRouteButton:1
 m_FilterOutSquawks:
 ORIGPLANE
-m_Visible:1
+m_Visible:0
 m_X:0
 m_Y:403
 m_LineNumber:0
