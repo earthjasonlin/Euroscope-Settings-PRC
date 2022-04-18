@@ -5,7 +5,7 @@ m_Y:25
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:2
-m_HeaderOnly:0
+m_HeaderOnly:1
 m_Column:Rwy:3:0:47:19:0:1::::1:0.0
 m_Column:C/S:8:1:9:0:0:1::::1:0.0
 m_Column:Type:7:1:78:0:0:1::::1:0.0
@@ -24,11 +24,11 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:59
+m_Y:38
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:2
-m_HeaderOnly:0
+m_HeaderOnly:1
 m_Column:Rwy:3:0:47:19:19:1::::1:0.0
 m_Column:C/S:8:1:9:8:33:1::::1:0.0
 m_Column:S/Pad:8:1:19:29:0:1::::0:0.0
@@ -47,11 +47,11 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:93
+m_Y:51
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:9
-m_HeaderOnly:0
+m_HeaderOnly:1
 m_Column:C/S:8:1:9:8:0:1::::1:0.0
 m_Column:Type:7:1:78:0:0:1::::1:0.0
 m_Column:C:1:1:1019:27:0:1:Telephonics:::1:0.0

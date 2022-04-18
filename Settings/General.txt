@@ -18,11 +18,11 @@ m_CenterlineVectorDme:14.0
 m_CenterlineVectorLength:6.0
 m_CenterlineVectorAngle:30.0
 m_CenterlineVectorBase:7.0
-m_STCA_LowShow:1
+m_STCA_LowShow:0
 m_STCA_LowVertical:800
 m_STCA_LowHorizontal:4.0
 m_STCA_LowBottom:2000
-m_STCA_HighShow:1
+m_STCA_HighShow:0
 m_STCA_HighVertical:800
 m_STCA_HighHorizontal:6.0
 m_STCA_HighBottom:21653
@@ -109,9 +109,9 @@ m_STCA_LowPreWarnTime:150
 m_STCA_LowWarnTime:150
 m_HighPreWarnTime:240
 m_STCA_HighWarnTime:240
-m_STCA_ShowCFL:1
+m_STCA_ShowCFL:0
 m_STCA_PlaySoundOnCFL:0
-m_STCA_PlaySoundOnTrackedOnly:1
+m_STCA_PlaySoundOnTrackedOnly:0
 m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
 m_DontAutoCorrelateDuplicated:1
 m_AcceptPilotSquawkForCorrelation:1
@@ -125,7 +125,7 @@ m_RubberHeadingRounding:10
 SqawkForSModeTransponder:
 m_TransparentTagBackground:1
 m_UseArrDepTagBgColor:0
-SET_MTCA_Show:1
+SET_MTCA_Show:0
 m_TaxiOutTime:10
 m_StartupTime:10
 m_ConnectTime:15
