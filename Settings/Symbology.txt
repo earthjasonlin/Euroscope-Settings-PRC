@@ -13,7 +13,7 @@ Stars:line:4802889:3.0:0:0:7
 ARTCC high boundary:line:13369548:3.0:0:1:7
 ARTCC boundary:line:4802889:3.0:0:2:7
 ARTCC low boundary:line:4802889:3.0:0:1:7
-Geo:line:8553090:3.0:0:0:7
+Geo:line:4539717:3.0:0:0:7
 VORs:symbol:4802889:1.0:0:0:7
 VORs:name:4802889:4.0:0:0:14
 VORs:frequency:4802889:4.0:0:0:2
@@ -31,8 +31,8 @@ Datablock:redundant:8697328:4.0:0:0:7
 Datablock:information:65535:4.0:0:0:7
 Datablock:even flight level:16777215:4.0:0:0:7
 Datablock:odd flight level:16777215:4.0:0:0:7
-Datablock:arrivals:16777215:4.0:0:0:7
-Datablock:departures:16777215:4.0:0:0:7
+Datablock:arrivals:8421504:4.0:0:0:7
+Datablock:departures:12632256:4.0:0:0:7
 Datablock:user 1:16777215:4.0:0:0:7
 Datablock:user 2:16777215:4.0:0:0:7
 Datablock:user 3:16777215:4.0:0:0:7
@@ -46,8 +46,8 @@ Datablock:ongoing accepted:65535:4.0:0:0:7
 Datablock:ongoing refused:65535:4.0:0:0:7
 Datablock:detailed background:9671571:4.0:0:0:7
 Datablock:active item background:12632256:4.0:0:0:7
-Datablock:arrival background:1395241:4.0:0:0:7
-Datablock:departure background:4264977:4.0:0:0:7
+Datablock:arrival background:12632256:4.0:0:0:7
+Datablock:departure background:8421504:4.0:0:0:7
 Datablock:AC list background:11318191:4.0:0:0:7
 Datablock:AC list selected background:9936794:4.0:0:0:7
 Datablock:dimmed at conflict detection:5263440:4.0:0:0:7
@@ -119,10 +119,10 @@ SYMBOLITEM:LINETO 0 -4
 SYMBOLITEM:LINETO 4 3
 SYMBOLITEM:LINETO -4 3
 SYMBOL:4
-SYMBOLITEM:MOVETO 0 -7
-SYMBOLITEM:LINETO 0 7
-SYMBOLITEM:MOVETO -7 0
-SYMBOLITEM:LINETO 7 0
+SYMBOLITEM:MOVETO 0 -3
+SYMBOLITEM:LINETO 0 3
+SYMBOLITEM:MOVETO -3 0
+SYMBOLITEM:LINETO 3 0
 SYMBOL:5
 SYMBOLITEM:MOVETO 0 -4
 SYMBOLITEM:LINETO 0 4
