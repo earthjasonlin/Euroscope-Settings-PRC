@@ -4,27 +4,21 @@
         "font_name": "EuroScope",
         "weight": "Regular",
         "sizes": {
-            "one": 11,
-            "two": 12,
-            "three": 13,
-            "four": 14,
-            "five": 16
+            "one": 8,
+            "two": 9,
+            "three": 10,
+            "four": 11,
+            "five": 12
         }
     },
     "filters": {
-        "hide_above_alt": 15000,
-        "hide_above_spd": 250,
-        "radar_range_nm": 30,
+        "hide_above_alt": 50000,
+        "hide_above_spd": 1000,
+        "radar_range_nm": 100,
         "night_alpha_setting": 110,
         "pro_mode": {
             "enable": false,
-            "accept_pilot_squawk": false,
-            "do_not_autocorrelate_squawks": [
-                "1200",
-                "7500",
-                "7600",
-                "7700"
-            ]
+            "accept_pilot_squawk": false
         }
     },
     "labels": {
