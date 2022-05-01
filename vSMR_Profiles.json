@@ -111,7 +111,7 @@
             "definition": [
                 ["callsign", "actype"],
                 ["gs", "flightlevel", "tendency"],
-                ["dep", "dest"]
+                ["origin", "dest"]
             ],
             "background_color": {
                 "r": 0,
