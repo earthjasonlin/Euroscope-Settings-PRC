@@ -49,7 +49,7 @@
         },
         "departure": {
             "definition": [
-                ["callsign","sctype", "gs", "ssr"],
+                ["callsign","actype", "gs", "ssr"],
                 ["deprwy", "asid"],
                 ["groundstatus", "dest"]
             ],
