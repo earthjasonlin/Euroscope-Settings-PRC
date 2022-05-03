@@ -24,7 +24,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:38
+m_Y:59
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:2
@@ -47,8 +47,8 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:51
-m_LineNumber:20
+m_Y:93
+m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:4
 m_HeaderOnly:1
