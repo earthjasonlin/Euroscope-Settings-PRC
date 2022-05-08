@@ -51,7 +51,7 @@ m_Y:51
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:4
-m_HeaderOnly:1
+m_HeaderOnly:0
 m_Column:C/S:8:1:9:8:0:1::::1:0.0
 m_Column:Type:7:1:78:0:0:1::::1:0.0
 m_Column:C:1:1:1019:27:0:1:Telephonics:::1:0.0
@@ -109,9 +109,9 @@ m_Column:Start:6:1:86:0:36:1::::1:0.0
 m_Column:End:6:1:87:0:36:1::::1:0.0
 END
 PILOTING
-m_Visible:1
-m_X:1237
-m_Y:614
+m_Visible:0
+m_X:907
+m_Y:668
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
