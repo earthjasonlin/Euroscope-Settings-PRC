@@ -14,7 +14,7 @@ m_ShowVoiceRoomUsers:1
 m_ShowFSSControllers:1
 m_ShowCTRControllers:1
 m_ShowAPPControllers:1
-m_ShowTWRControllers:1
+m_ShowTWRControllers:0
 m_ShowGNDControllers:1
 m_ShowATISControllers:1
 m_ShowOBSControllers:1
@@ -31,7 +31,7 @@ m_ConnectSELtoSIL:1
 m_ConnectDEPtoSEL:1
 m_ConnectSILtoTOP:1
 m_ScreenNumber:0
-m_ScreenPosition:0
+m_ScreenPosition:1
 m_ScreenMaximized:0
 m_ShowTitleSelectedAc:0
 m_PlanesListX:1271
@@ -53,6 +53,6 @@ m_OnTheGroundAltitude:15000
 m_OnTheGroundSpeed:50
 m_ShowCdtOnCflCheck:1
 m_ShowTsVccsMiniControl:0
-ScenarioEditorX:110
-ScenarioEditorY:394
+ScenarioEditorX:939
+ScenarioEditorY:416
 m_ShowSTARControllers:1

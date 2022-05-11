@@ -44,8 +44,8 @@ Datablock:ongoing requested by me:12615935:4.0:0:0:7
 Datablock:ongoing requested by other:8454016:4.0:0:0:7
 Datablock:ongoing accepted:65535:4.0:0:0:7
 Datablock:ongoing refused:65535:4.0:0:0:7
-Datablock:detailed background:9671571:4.0:0:0:7
-Datablock:active item background:12632256:4.0:0:0:7
+Datablock:detailed background:9474192:4.0:0:0:7
+Datablock:active item background:9474192:4.0:0:0:7
 Datablock:arrival background:12632256:4.0:0:0:7
 Datablock:departure background:8421504:4.0:0:0:7
 Datablock:AC list background:11318191:4.0:0:0:7
