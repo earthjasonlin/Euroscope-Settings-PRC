@@ -25,13 +25,13 @@ m_ShowArrivalPlanes:1
 m_ShowDeparturePlanes:1
 m_ShowOverflightPlanes:1
 SET_ShowTrackingPlanes:1
-m_METARList:1
+m_METARList:0
 m_ShowTitleMetar:1
 m_ConnectSELtoSIL:1
 m_ConnectDEPtoSEL:1
 m_ConnectSILtoTOP:1
 m_ScreenNumber:0
-m_ScreenPosition:1
+m_ScreenPosition:0
 m_ScreenMaximized:0
 m_ShowTitleSelectedAc:0
 m_PlanesListX:1271
