@@ -1,5 +1,5 @@
 SIL
-m_Visible:0
+m_Visible:1
 m_X:0
 m_Y:25
 m_LineNumber:0
@@ -22,9 +22,9 @@ m_Column:Crz:6:1:1002:1008:1002:1:Telephonics:Telephonics:Telephonics:4:0.0
 m_Column:ASSR:5:1:60:31:0:1::::1:0.0
 END
 SEL
-m_Visible:0
+m_Visible:1
 m_X:0
-m_Y:72
+m_Y:176
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:2
@@ -45,9 +45,9 @@ m_Column:Crz:6:1:1002:1008:1002:1:Telephonics:Telephonics:Telephonics:1:0.0
 m_Column:ASSR:5:1:60:31:0:1::::1:0.0
 END
 DEP
-m_Visible:0
+m_Visible:1
 m_X:0
-m_Y:106
+m_Y:275
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
