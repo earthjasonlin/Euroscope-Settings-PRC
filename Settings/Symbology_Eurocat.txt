@@ -24,10 +24,10 @@ Runways:centerline:16438728:4.0:0:0:7
 Runways:extended centerline:4802889:4.0:0:0:7
 Runways:name:9221586:4.0:0:3:7
 Datablock:non concerned:0:4.0:0:0:7
-Datablock:notified:16711680:4.0:0:0:7
-Datablock:assumed:13302224:4.0:0:0:7
-Datablock:transfer to me initiated:5938156:4.0:0:0:7
-Datablock:redundant:8697328:4.0:0:0:7
+Datablock:notified:11796480:4.0:0:0:7
+Datablock:assumed:11206570:4.0:0:0:7
+Datablock:transfer to me initiated:6934015:4.0:0:0:7
+Datablock:redundant:6934015:4.0:0:0:7
 Datablock:information:65535:4.0:0:0:7
 Datablock:even flight level:16777215:4.0:0:0:7
 Datablock:odd flight level:16777215:4.0:0:0:7
@@ -39,7 +39,7 @@ Datablock:user 3:16777215:4.0:0:0:7
 Datablock:user 4:16777215:4.0:0:0:7
 Datablock:user 5:16777215:4.0:0:0:7
 Datablock:user 6:16777215:4.0:0:0:7
-Datablock:emergency:50688:4.0:0:0:7
+Datablock:emergency:3026641:4.0:0:0:7
 Datablock:ongoing requested by me:12615935:4.0:0:0:7
 Datablock:ongoing requested by other:8454016:4.0:0:0:7
 Datablock:ongoing accepted:65535:4.0:0:0:7
