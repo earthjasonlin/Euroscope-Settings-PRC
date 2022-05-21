@@ -5,11 +5,11 @@ m_ShowRouteFixName:1
 m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
-m_TransitionAltitude:9000
+m_TransitionAltitude:9843
 m_AllowConcernedACTagDown:1
 m_CenterlineDme:0.0
 m_CenterlineLength:20.0
-m_CenterlineTickDme:5.0
+m_CenterlineTickDme:0.0
 m_CenterlineTickInterval:1.0
 m_CenterlineTickLength:0.5
 m_CenterlineMarkerLength:1.0
@@ -96,7 +96,7 @@ m_SupMessageLevel:4
 m_AtisMessageLevel:0
 m_PrivateMessageLevel:4
 m_FreqMessageLevel:4
-m_MericUnits:0
+m_MericUnits:1
 m_ShowCorrelatedInFpList:1
 m_ShowUncorrelatedInFpList:1
 m_ShowVFRInFpList:1
@@ -134,8 +134,8 @@ m_ShowTrackMilesInRouteButton:1
 m_FilterOutSquawks:
 ORIGPLANE
 m_Visible:1
-m_X:1569
-m_Y:527
+m_X:1659
+m_Y:288
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1

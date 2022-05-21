@@ -1,5 +1,0 @@
-VCCS
-Ts3Server:106.55.157.15
-Ts3Port:9988
-Ts3G2AChannel:118.000
-END
