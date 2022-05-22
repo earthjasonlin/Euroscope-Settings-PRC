@@ -53,12 +53,12 @@ m_ShowRAMWarning:1
 m_MagneticNorthUp:1
 m_ShowAForAltitudes:1
 m_Show500ForNonVisual:1
-SET_SetActiveAptBySectors:1
+SET_SetActiveAptBySectors:0
 SET_CapitalizeFPAndScratch:1
 m_SET_WTC_Light:L
 SET_WTC_Medium:M
 SET_WTC_Heavy:H
-SET_WTC_A380:J
+SET_WTC_A380:H
 m_RotateRouteTexts:0
 m_NeverCloseFreqChat:1
 m_KeepScratchPadAfterDirect:0
@@ -134,8 +134,8 @@ m_ShowTrackMilesInRouteButton:1
 m_FilterOutSquawks:
 ORIGPLANE
 m_Visible:1
-m_X:1659
-m_Y:478
+m_X:0
+m_Y:351
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1

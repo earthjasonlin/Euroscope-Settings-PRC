@@ -5,9 +5,9 @@ m_Y:25
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:2
-m_HeaderOnly:0
+m_HeaderOnly:1
 m_Column:ACID:8:1:5:0:0:1:Eurocat Plugin:::0:0.0
-m_Column:TYP:7:1:78:0:0:1::::1:0.0
+m_Column:TYP:7:1:78:0:0:1::::0:0.0
 m_Column:R:2:1:63:0:0:1::::0:0.0
 m_Column:ADEP:5:1:61:7:0:1::::0:0.0
 m_Column:ADES:5:1:17:7:1:1::::0:0.0
@@ -23,11 +23,11 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:59
+m_Y:38
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:2
-m_HeaderOnly:0
+m_HeaderOnly:1
 m_Column:ACID:8:1:5:8:33:1:Eurocat Plugin:::0:0.0
 m_Column:TYP:7:1:78:0:0:1::::0:0.0
 m_Column:R:2:1:63:0:0:1::::0:0.0
@@ -45,11 +45,11 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:93
+m_Y:51
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
-m_HeaderOnly:0
+m_HeaderOnly:1
 m_Column:ACID:8:1:5:8:0:1:Eurocat Plugin:::0:0.0
 m_Column:TYP:7:1:16:0:0:1::::0:0.0
 m_Column:R:2:1:63:0:0:1::::0:0.0
@@ -64,9 +64,9 @@ m_Column:RFL:5:1:3:4:0:1:Eurocat Plugin:Eurocat Plugin::0:0.0
 m_Column:ASSR:5:1:60:31:0:1::::0:0.0
 END
 FP
-m_Visible:1
-m_X:0
-m_Y:428
+m_Visible:0
+m_X:312
+m_Y:397
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1

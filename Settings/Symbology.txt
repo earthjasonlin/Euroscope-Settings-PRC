@@ -77,7 +77,7 @@ Other:conflict warning:65535:4.0:0:2:7
 Other:conflict detected:255:4.0:0:2:7
 Other:route annotation:16777215:4.0:0:2:7
 Other:freetext:0:4.0:0:0:7
-Other:range rings:6842368:5.0:2:0:2
+Other:range rings:12369084:5.0:2:0:2
 Other:off antenna range rings:255:5.0:0:0:2
 Other:plane range rings:5921370:5.0:0:0:2
 Other:manual taxi line:16777215:5.0:0:3:2
@@ -128,7 +128,10 @@ SYMBOLITEM:LINETO 0 3
 SYMBOLITEM:MOVETO -3 0
 SYMBOLITEM:LINETO 3 0
 SYMBOL:5
-SYMBOLITEM:MOVETO 0 0
+SYMBOLITEM:MOVETO 0 -4
+SYMBOLITEM:LINETO 0 5
+SYMBOLITEM:MOVETO -4 0
+SYMBOLITEM:LINETO 5 0
 SYMBOL:6
 SYMBOLITEM:MOVETO -4 -4
 SYMBOLITEM:LINETO 5 5
