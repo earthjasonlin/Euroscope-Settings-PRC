@@ -4,8 +4,8 @@ m_ShowAirspaceLines:1
 m_ShowRouteFixName:1
 m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
-m_ShowSimulatedData:1
-m_TransitionAltitude:9000
+m_ShowSimulatedData:0
+m_TransitionAltitude:9843
 m_AllowConcernedACTagDown:1
 m_CenterlineDme:0.0
 m_CenterlineLength:20.0
@@ -26,7 +26,7 @@ m_STCA_HighShow:1
 m_STCA_HighVertical:1000
 m_STCA_HighHorizontal:12.0
 m_STCA_HighBottom:18000
-m_ExtendedCenterlinActiveArr:0
+m_ExtendedCenterlinActiveArr:1
 m_UseHoveringTagForKeys:1
 m_AutoMessageForTextAircraft:1
 m_ShowRouteWhenAccepting:0
