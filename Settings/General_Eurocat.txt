@@ -5,10 +5,10 @@ m_ShowRouteFixName:1
 m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
-m_TransitionAltitude:9843
+m_TransitionAltitude:9000
 m_AllowConcernedACTagDown:1
 m_CenterlineDme:0.0
-m_CenterlineLength:16.0
+m_CenterlineLength:30.0
 m_CenterlineTickDme:0.0
 m_CenterlineTickInterval:1.0
 m_CenterlineTickLength:0.5
