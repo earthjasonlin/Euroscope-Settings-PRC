@@ -2,6 +2,7 @@ ASRs/
 ATIS/
 FSNavigator/
 Plugins/*.dll
-Plugins/ICAO_Airlines.txt
+Plugins/*.txt
 Profiles/
 Sectors/
+ICAO/
