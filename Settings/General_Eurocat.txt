@@ -134,13 +134,14 @@ m_ShowTrackMilesInRouteButton:1
 m_FilterOutSquawks:
 ORIGPLANE
 m_Visible:0
-m_X:0
-m_Y:823
+m_X:53
+m_Y:462
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
 m_HeaderOnly:0
 m_Column:ACID:8:1:5:0:0:1:Eurocat Plugin:::0:0.0
+m_Column::1:1:3:0:0:1::::0:0.0
 m_Column:CFL:5:1:2:3:0:1:Eurocat Plugin:Eurocat Plugin::0:0.0
 m_Column:RFL:5:1:3:4:0:1:Eurocat Plugin:Eurocat Plugin::0:0.0
 m_Column:OPDATA:8:1:1:2:0:1:Eurocat Plugin:Eurocat Plugin::0:0.0
