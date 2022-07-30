@@ -1,0 +1,5 @@
+#define gndTaxi 4227200
+#define gndTerminal 1848432
+#define gndGrass 6257742
+#define gndApron 5263440
+#define gndRunway 0

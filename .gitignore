@@ -4,5 +4,7 @@ FSNavigator/
 Plugins/*.dll
 Plugins/*.txt
 Profiles/
-Sectors/
+*.sct
+*.ese
+*.rwy
 ICAO/
