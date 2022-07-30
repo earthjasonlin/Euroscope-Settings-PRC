@@ -1,5 +1,15 @@
+Find the following sections in the ".sct" files and replace the lines with the followings
+
+
+Ground Radar Colours:
+
 #define gndTaxi 4227200
 #define gndTerminal 1848432
 #define gndGrass 6257742
 #define gndApron 5263440
 #define gndRunway 0
+
+
+MVA Colour:
+
+#define CAB_MVA 0
